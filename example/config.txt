@@ -1,0 +1,2 @@
+Prefix plugins/FASTAShard/example/
+Plugin FASTAShard inputfile parameters.txt outputfile .

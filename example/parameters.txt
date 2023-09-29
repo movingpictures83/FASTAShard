@@ -1,0 +1,4 @@
+fastafile	first100k.fasta
+partitions	10
+affix	shard
+version	41
