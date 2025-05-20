@@ -215,3 +215,4 @@ class FASTAShardPlugin:
     print("[ " + time.strftime('%d-%b-%Y %H:%M:%S',time.localtime()) + " ]")
     print("[ " + time.strftime('%d-%b-%Y %H:%M:%S',time.localtime()) + " ]" + " Fasta File Splitter, Done.")
     print("[ " + time.strftime('%d-%b-%Y %H:%M:%S',time.localtime()) + " ]")
+    os.system("cp "+output_directory+"/1/*.fasta "+output_directory)
